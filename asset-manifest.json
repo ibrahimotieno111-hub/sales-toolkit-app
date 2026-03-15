@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sales-toolkit/static/css/main.e6c13ad2.css",
+    "main.js": "/sales-toolkit/static/js/main.e18edc9f.js",
+    "static/js/453.5652a133.chunk.js": "/sales-toolkit/static/js/453.5652a133.chunk.js",
+    "index.html": "/sales-toolkit/index.html",
+    "main.e6c13ad2.css.map": "/sales-toolkit/static/css/main.e6c13ad2.css.map",
+    "main.e18edc9f.js.map": "/sales-toolkit/static/js/main.e18edc9f.js.map",
+    "453.5652a133.chunk.js.map": "/sales-toolkit/static/js/453.5652a133.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e18edc9f.js"
+  ]
+}
